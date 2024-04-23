@@ -23,36 +23,3 @@ Hello! My name is Phuc. Thanks for taking the time to view my GitHub profile �
 [![phucpham1999@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "phucpham1999@gmail.com")](phucpham1999@gmail.com)
 
 <br>
-
-## GitHub Stats 📈 :
-
-<br>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hoangphuc1103&theme=algolia)](https://git.io/streak-stats)
-<br>
-[![HoangPhuc1105 GitHub stats](https://github-readme-stats.vercel.app/api?username=hoangphuc1103&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
-<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hoangphuc1103&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)<br>
-<br>
-[![HoangPhuc1105 wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hoangphuc1103&theme=algolia)](https://github.com/WinterWolf97/github-readme-stats)
-
-<br>
-
-## GitHub Thropies 🏆 :
-
-<br>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=hoangphuc1105&theme=onedark)](https://github-profile-trophy.vercel.app/?username=hoangphuc1105&theme=onedark)
-
-<br>
-
-## Activity Graph 📊 :
-
-<br>
-
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=hoangphuc1103&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
-Credit: [HoangPhuc1103](https://github.com/hoangphuc1103)
-Last edited on: 23/04/2024
