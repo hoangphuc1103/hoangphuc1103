@@ -50,7 +50,7 @@ Hello! My name is Phuc. Thanks for taking the time to view my GitHub profile ðŸ˜
 
 <br>
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=hoangphuc1105&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=hoangphuc1103&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
